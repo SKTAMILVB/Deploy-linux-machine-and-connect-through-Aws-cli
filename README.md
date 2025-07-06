@@ -7,13 +7,13 @@ Prerequisites:
 2.IAM user with necessary EC2 permissions
 3.Key pair for SSH login (we’ll generate one if not already available)
 
-Steps:
 🟢 Step 1: Log in to AWS Console
 Go to https://console.aws.amazon.com
 Choose region (like us-east-1, ap-south-1, etc.)
 
 🟢 Step 2: Launch EC2 Instance
 Go to EC2 > Instances > Click Launch Instance
+
 Fill the details:
 1.Name: MyLinuxServer
 2.AMI: Choose Amazon Linux 2023 (or Ubuntu if you prefer)
