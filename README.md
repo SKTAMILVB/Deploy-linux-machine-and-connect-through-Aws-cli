@@ -1,4 +1,4 @@
-**Deploy Linux Instance and Access it Using AWS CLI**
+**Deploy Linux Instance **
 
 ✅ 1. Create One Linux Machine in AWS (EC2)
 
