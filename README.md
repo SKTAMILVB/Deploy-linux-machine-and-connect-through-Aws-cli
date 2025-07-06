@@ -1,1 +1,1 @@
-# Deploy-linux-machine-and-connect-through-Aws-cli
+Deploy Linux Instance and Access it Using AWS CL
